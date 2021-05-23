@@ -17,7 +17,7 @@ Following the advice of the Academic Integrity Board of Thomas High School, math
 
 > How is the district summary affected?
 
-Only the row pertaining to Thomas High School has affected, as their grade 9 scores were discarded. 
+Only the row pertaining to Thomas High School has affected, as their grade 9 scores were discarded. (See: [Summary before changes](https://github.com/arianakhakpour/School_District_Analysis/blob/main/pre-summary.PNG) , [Summary after changes](https://github.com/arianakhakpour/School_District_Analysis/blob/main/post-summary.PNG)
 
 > How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
