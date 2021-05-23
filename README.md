@@ -6,8 +6,8 @@ The objective of this data analysis is to find the releationship between high sc
 ## Results:
 It can be observed that the average student performance at math and reading classes is reversely proportional to the school size, meaning that students from smaller schools are more likely to objain higher scores on both courses (See: [Size vs. Performance](https://github.com/arianakhakpour/School_District_Analysis/blob/main/post-sizes.PNG)). 
 It was also noted that the students' performance is considerably greater at Charter schools, compared to public (District) schools (See: [Type vs. Performance](https://github.com/arianakhakpour/School_District_Analysis/blob/main/post-district.PNG)). 
-This analysis also revieled that the students' average score on math and reading is directly porportional to the school budget per student. (See: [Budget vs. Performance](https://github.com/arianakhakpour/Data-Analytics/blob/main/Kickstarter_Challenge.xlsx)).
-[Kickstarter Challenge](https://github.com/arianakhakpour/Data-Analytics/blob/main/Kickstarter_Challenge.xlsx)
+This analysis also revieled that the students' average score on math and reading is directly porportional to the school budget per student. (See: [Budget vs. Performance](https://github.com/arianakhakpour/School_District_Analysis/blob/main/post-budget.PNG)).
+
 
 ## Alterations:
 Following the advice of the Academic Integrity Board of Thomas High School, math and reading scores for Grade 9 students were nullified and were replaced by NaN.
